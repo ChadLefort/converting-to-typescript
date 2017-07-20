@@ -16,6 +16,7 @@
     "react-redux": "^5.0.5",
     "react-redux-typescript": "^2.3.0",
     "react-scripts-ts": "2.4.0",
+    "redux-devtools-extension": "^2.13.2",
     "redux-thunk": "^2.2.0",
     "semantic-ui-css": "^2.2.11",
     "semantic-ui-react": "^0.71.1",
