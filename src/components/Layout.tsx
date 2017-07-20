@@ -6,7 +6,7 @@ const Layout: React.SFC = props =>
   <div>
     <Header as="h2" icon textAlign="center">
       <Icon name="users" circular />
-      <Header.Content>Overwatch Heros</Header.Content>
+      <Header.Content>Overwatch Heroes</Header.Content>
     </Header>
     <Container>
       {props.children}
